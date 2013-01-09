@@ -1,8 +1,8 @@
 {
-    "name": "nutwerk/doctrine-orm-provider",
+    "name": "meikoudras/doctrine-orm-provider",
     "description": "Doctrine ORM provider for Silex",
     "keywords": ["silex", "doctrine", "orm", "database", "extension", "provider"],
-    "homepage": "https://github.com/mjakubowski/nutwerk-orm-extension",
+    "homepage": "https://github.com/meikoudras/nutwerk-orm-extension",
     "authors": [
         { "name": "Marc Jakubowski", "homepage": "http://nutwerk.de/" }
     ],
