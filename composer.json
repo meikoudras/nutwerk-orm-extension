@@ -9,7 +9,7 @@
     "require": {
         "php": ">=5.3.2",
         "doctrine/orm": ">=2.1.x-dev",
-        "doctrine/common": ">=2.1.*",
+        "doctrine/common": ">=2.1.x",
         "doctrine/dbal": ">=2.1.x-dev"
     },
     "suggest": {
